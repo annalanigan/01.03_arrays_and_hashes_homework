@@ -12,6 +12,7 @@ lines = ['Gyle Centre', 'Edinburgh Park', 'Murrayfield Stadium', 'Haymarket', 'P
 # p lines[4]
 # p lines[-1]
 # p lines.last
+# p lines.max
 #
 # # 4. Work out the index position of 'Haymarket'
 # p lines.index('Haymarket')
